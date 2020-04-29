@@ -22,6 +22,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "membership",
+            "membership.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "login",
             "login.json"
           ]
@@ -33,24 +41,19 @@
             "welcome",
             "welcome.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "membership",
-            "membership.json"
-          ]
         }
       ],
       "configxml": null,
       "contentSecurityPolicy": "",
       "copyright": "Copyright 2019 ABC Company",
+      "cordovaBuild": null,
+      "cordovaCommand": "emulate android",
       "dashboardAccess": false,
       "defaultformsize": "320x460",
       "description": "",
       "disablePWA": "",
       "electronDevTools": "true",
+      "electronIcon": "",
       "electronMain": null,
       "electronPackage": null,
       "enableAppScroll": "false",
@@ -61,7 +64,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "login",
+      "firstform": "membership",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",

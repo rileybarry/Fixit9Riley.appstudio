@@ -7,7 +7,7 @@ btnSubmit.onclick=function(){
   if ((accountName == "Smith") && (pass == "123Dogs#"))
     ChangeForm(welcome)
   else    
-    NSB.MsgBox("That login is not recognised. Please try again.")
+    NSB.MsgBox("That login is not recognized. Please try again.")
     inptAccount.value = ""
     inptPassword.value = ""
 }

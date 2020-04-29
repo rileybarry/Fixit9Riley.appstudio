@@ -18,6 +18,24 @@
         "Elements",
         "inptFirstName.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "btnSub.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "lblDisplay.json"
+      ]
     }
   ],
   "class": "",
@@ -34,10 +52,10 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "membership.onshow()",
   "openMode": "none",
   "parentForm": "",
-  "position": "absolute",
+  "position": "fixed",
   "script": null,
   "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
   "scrolling": "false",
