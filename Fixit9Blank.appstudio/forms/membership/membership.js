@@ -4,7 +4,7 @@ let memName = "";
 
 btnSub.onclick=function(){
   memName = inptFirstName.value
-  if(memName in members)
+  if(members.includes(memName))
     lblDisplay.textContent = 'You are a member.'
   else
     lblDisplay.textContent = 'You are not a member.'
