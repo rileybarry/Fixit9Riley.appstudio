@@ -1,3 +1,4 @@
+/*
 let nouns = ['Cow', 'Bluejay', 'Dolphin', 'Dog', 'Cat']
 let noun = ''
 
@@ -55,3 +56,4 @@ btnSubm.onclick=function(){
   Even her ${noun} was surprised. "I always thought she was ${adj}, but I never thought she'd do something like this."
   Either way, we imagine that after witnessing her ${verb}ing with a ${adj} ${noun}, there are probably a whole lot of ${noun}s that are going to need therapy.`
 }
+*/

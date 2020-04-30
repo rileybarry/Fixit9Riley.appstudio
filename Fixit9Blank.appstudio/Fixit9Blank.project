@@ -49,6 +49,14 @@
             "ABMadLibs",
             "ABMadLibs.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABFourControls",
+            "ABFourControls.json"
+          ]
         }
       ],
       "configxml": null,
@@ -72,7 +80,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "ABMadLibs",
+      "firstform": "ABFourControls",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
